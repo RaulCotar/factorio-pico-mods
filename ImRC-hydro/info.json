@@ -1,0 +1,10 @@
+{
+	"name": "ImRC-hydro",
+	"version": "0.0.1",
+	"title": "ImRC's Hydroelectrics",
+	"author": "ImRC",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0"],
+	"description": "Hydroelectric power production chain."
+}
+

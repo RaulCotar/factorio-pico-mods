@@ -1,0 +1,6 @@
+-- downstream options (ENUM): basin, lake+basin, lake
+-- upstreap options (ENUM): reservoir, reservoir + pipes, pipes
+-- turbine power multiplier
+-- hp_pump power multiplier
+-- make thick pipes for hydro connections, and maybe something that connects to the outside
+-- weather stuff ???

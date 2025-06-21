@@ -1,0 +1,10 @@
+{
+	"name": "ImRC-combat",
+	"version": "0.0.5",
+	"title": "ImRC's Combat Pack",
+	"author": "ImRC",
+	"factorio_version": "2.0",
+	"dependencies": ["base >= 2.0"],
+	"description": "Vanilla-friendly combat extension."
+}
+
